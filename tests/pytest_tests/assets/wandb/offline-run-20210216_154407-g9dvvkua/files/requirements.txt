@@ -77,7 +77,7 @@ gast==0.2.2
 gin-config==0.4.0
 gin==0.1.6
 gitdb2==2.0.6
-gitpython==3.0.5
+gitpython==3.1.32
 google-api-core==1.2.1
 google-api-python-client==1.7.3
 google-apitools==0.5.28
