@@ -464,7 +464,7 @@ watchdog==0.10.3
 wcwidth==0.1.7
 webencodings==0.5.1
 websocket-client==0.57.0
-werkzeug==0.16.1
+werkzeug==3.0.1
 wget==3.2
 wheel==0.31.1
 widgetsnbextension==3.5.1
